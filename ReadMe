@@ -1,0 +1,6 @@
+step1 run this to set Policy:
+    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+step2 run this to activate venv : 
+    .\env\Scripts\Activate
+if you want to deactivate : 
+    deactivate
